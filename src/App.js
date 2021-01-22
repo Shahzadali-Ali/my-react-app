@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Welcome To React</p>        
+        <p>Welcome To React Node And MongoDB</p>        
       </header>
     </div>
   );
